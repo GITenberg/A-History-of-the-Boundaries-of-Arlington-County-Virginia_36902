@@ -1,0 +1,26 @@
+_repo: A-History-of-the-Boundaries-of-Arlington-County-Virginia_36902
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36902-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Arlington Co., Va. County Manager
+    alias: Arlington Co., Va. Office of the County Manager
+    gutenberg_agent_id: '38528'
+    url: http://www.gutenberg.org/2009/agents/38528
+description: ''
+gutenberg_issued: '2011-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36902'
+  lccn: '70281672'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arlington County (Va.) -- Boundaries'
+- !lcc 'F206'
+title: A History of the Boundaries of Arlington County, Virginia
+url: http://www.gutenberg.org/ebooks/36902
