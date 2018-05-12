@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '38528'
     url: http://www.gutenberg.org/2009/agents/38528
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36902#A-History-of-the-Boundaries-of-Arlington-County-Virginia
 gutenberg_issued: '2011-07-30'
 gutenberg_type: Text
 identifiers:
